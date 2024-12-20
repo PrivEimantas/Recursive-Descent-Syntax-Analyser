@@ -1,0 +1,50 @@
+Compilation Exception
+	Caused by error in statement part in Programs Folder/program2
+	Caused by error in accept terminal in Programs Folder/program2
+	Caused by Got unexpected token { IDENTIFIER } on line 1 expected token: begin
+
+Compilation Exception
+	Caused by error in statement part in Programs Folder/program3
+	Caused by Error in statement list in Programs Folder/program3
+	Caused by Error in statement list in Programs Folder/program3
+	Caused by Error in statement list in Programs Folder/program3
+	Caused by Exception caused by statement in Programs Folder/program3
+	Caused by Error caused by if statement in Programs Folder/program3
+	Caused by error in accept terminal in Programs Folder/program3
+	Caused by Got unexpected token { EOF } on line 11 expected token: if
+
+Compilation Exception
+	Caused by error in statement part in Programs Folder/program4
+	Caused by Error in statement list in Programs Folder/program4
+	Caused by Error in statement list in Programs Folder/program4
+	Caused by Error in statement list in Programs Folder/program4
+	Caused by Exception caused by statement in Programs Folder/program4
+	Caused by error in while statement in Programs Folder/program4
+	Caused by Error in statement list in Programs Folder/program4
+	Caused by Error in statement list in Programs Folder/program4
+	Caused by Error in statement list in Programs Folder/program4
+	Caused by Exception caused by statement in Programs Folder/program4
+	Caused by Got unexpected token {end} on line 7
+
+Compilation Exception
+	Caused by error in statement part in Programs Folder/program5
+	Caused by Error in statement list in Programs Folder/program5
+	Caused by Error in statement list in Programs Folder/program5
+	Caused by Error in statement list in Programs Folder/program5
+	Caused by Exception caused by statement in Programs Folder/program5
+	Caused by error in while statement in Programs Folder/program5
+	Caused by error in accept terminal in Programs Folder/program5
+	Caused by Got unexpected token { ; } on line 7 expected token: loop
+
+Compilation Exception
+	Caused by error in statement part in Programs Folder/program7
+	Caused by Error in statement list in Programs Folder/program7
+	Caused by Error in statement list in Programs Folder/program7
+	Caused by Error in statement list in Programs Folder/program7
+	Caused by Exception caused by statement in Programs Folder/program7
+	Caused by Got unexpected token {else} on line 4
+
+Compilation Exception
+	Caused by error in accept terminal in Programs Folder/program8
+	Caused by Got unexpected token { call } on line 12 expected token: EOF
+
